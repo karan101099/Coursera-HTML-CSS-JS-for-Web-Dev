@@ -16,10 +16,21 @@ h3 {
     padding: 0x;
     position: relative;
     float: right;
-    background-color: brown;
     width: 33%;
     border: 1px solid black;
 }
+.h31 {
+    background: rgb(245, 79, 79);
+  }
+
+.h32 {
+    background: rgb(127, 218, 142);
+  }
+
+.h33 {
+    background: rgb(243, 168, 49);
+  }
+
 
 p {
     padding-top: 10px;
