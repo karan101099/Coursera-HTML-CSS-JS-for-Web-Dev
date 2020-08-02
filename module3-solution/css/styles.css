@@ -2,6 +2,27 @@ body{
     font-family: 'Nova Mono', monospace;
 }
 
-#header-nav{
-    background-color: aqua;
+h1,h2 {
+    text-align: center;
+    margin: 16px;
+}
+.container-fluid{
+    padding: 0%;
+}
+article{
+    background-color: #cccccc;
+    margin:16px;
+    padding : 10px;
+    overflow-wrap: break-word;
+}
+
+#navbarSupportedContent{
+    text-align: center;
+    /* text-decoration: none; */
+    padding-left: 16px;
+}
+
+li:hover{
+    border: 5px;
+    border-color: red;
 }
