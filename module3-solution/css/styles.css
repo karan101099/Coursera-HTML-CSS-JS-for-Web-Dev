@@ -22,7 +22,6 @@ article{
     padding-left: 16px;
 }
 
-li:hover{
-    border: 5px;
-    border-color: red;
+.nav>li>a {
+    border-bottom: 0.5px solid black;
 }
